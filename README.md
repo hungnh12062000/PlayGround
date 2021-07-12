@@ -1,2 +1,2 @@
 # PlayGround
-Practice with evondev
+Practice Landing page with only HTML and SCSS
